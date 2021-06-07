@@ -1,0 +1,7 @@
+com.mridang.speedo.BatteryReceiver,false,false,false,false,false,
+com.mridang.speedo.BootReceiver,false,false,false,false,false,
+com.mridang.speedo.PowerReceiver,false,false,false,false,false,
+com.mridang.speedo.SettingsActivity,false,false,false,false,false,
+com.mridang.speedo.SpeedoApplication,false,false,false,false,false,
+com.mridang.speedo.TrafficService,false,false,false,false,false,
+com.mridang.colorpicker.ColorPreference,false,false,false,false,false,

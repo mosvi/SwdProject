@@ -1,0 +1,6 @@
+com.iazasoft.footguy.Footguy,false,false,false,false,false,
+com.iazasoft.footguy.FootHelp,false,false,false,false,false,
+com.iazasoft.footguy.Prefs,false,false,false,false,false,
+com.iazasoft.footguy.ScreenBroadcastReceiver,false,false,false,false,false,
+com.iazasoft.footguy.ScreenListenerService,false,false,false,false,false,
+com.iazasoft.footguy.TapService,false,false,false,false,false,

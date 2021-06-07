@@ -1,0 +1,8 @@
+com.provider.JSSEProvider,false,false,false,false,false,
+de.grobox.blitzmail.crypto.Crypto,false,false,false,false,false,
+de.grobox.blitzmail.crypto.EncryptedEditTextPreference,false,false,false,false,false,
+de.grobox.blitzmail.MailStorage,false,false,false,false,false,
+de.grobox.blitzmail.NoteActivity,false,false,false,false,false,
+de.grobox.blitzmail.preferences.PrefFragment,false,false,false,false,false,
+de.grobox.blitzmail.send.MailSender,false,false,false,false,false,
+de.grobox.blitzmail.send.SendActivity,false,false,false,false,false,

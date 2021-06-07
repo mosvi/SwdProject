@@ -1,0 +1,5 @@
+com.kanedias.vanilla.lyrics.GeniusApiEngine,false,false,false,false,false,
+com.kanedias.vanilla.lyrics.LyricsEngine,false,false,false,false,false,
+com.kanedias.vanilla.lyrics.LyricsShowActivity,false,false,false,false,false,
+com.kanedias.vanilla.lyrics.LyricWikiEngine,false,false,false,false,false,
+com.kanedias.vanilla.lyrics.PluginQueryBroadcastReceiver,false,false,false,false,false,

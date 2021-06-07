@@ -1,0 +1,2 @@
+Project Name,Package Name,Architecture Smell,Cause of the Smell
+gasflow,com.mridang.speedo,Feature Concentration,The tool detected the smell in this component because the component realizes more than one architectural concern/feature. Independent sets of related classes within this component are: [BatteryReceiver]; [BootReceiver]; [PowerReceiver]; [SettingsActivity; TrafficService; NotificationHandler]; [SpeedoApplication]; [LocalBinder]. LCC (Lack of Component Cohesion) = 0.75
